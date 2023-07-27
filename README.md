@@ -10,6 +10,6 @@ I am currently trying to learn new things related to python
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: <strong>You can write to me on sing [pawel.rutkowski001@gmail.com](mailto:pawel.rutkowski001@gmail.com)</strong>
-- ⚡ Fun fact: <strong>I had python training in high school 2017 where the school limited training for everyone it was my first time with python</strong>
+- ⚡ Fun fact: <strong>I was dealing with it for the first time when I had python training in high school 2017 where the school limited training for everyone it was my first time with python</strong>
 - 🎯 Goal (2023): Get job.
 
