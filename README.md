@@ -6,7 +6,7 @@ I am currently trying to learn new things related to python
 
 
 - 🔭 I’m currently working on [My-CRM](https://github.com/Pawelooo/My-CRM)
-<p style="margin-top: 25px;">- ✍ I’m currently learning<img src="Python.svg.png" alt="drawing" width="30px" height="30px"/><img src="django2.png" alt="drawing" width="55px" height="30px"/></p>
+- <p style="margin-top: 25px;">✍ I’m currently learning<img src="Python.svg.png" alt="drawing" width="30px" height="30px"/><img src="django2.png" alt="drawing" width="55px" height="30px"/></p>
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: <strong>You can write to me on sing [pawel.rutkowski001@gmail.com](mailto:pawel.rutkowski001@gmail.com)</strong>
