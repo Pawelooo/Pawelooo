@@ -1,7 +1,7 @@
 ## Hey 🖐, I'm Paweł!
 
 
-I am currently trying to learn new things related to Python
+I am currently trying to learn new things related to Python and Django. I'm also learning docker in my free time
 
 
 
