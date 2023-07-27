@@ -1,7 +1,7 @@
 ## Hey 🖐, I'm Paweł!
 
 
-I am currently trying to learn new things related to python
+I am currently trying to learn new things related to Python
 
 
 
