@@ -24,10 +24,8 @@ Building a **REST API** with **FastAPI** + **PostgreSQL** — focusing on clean 
 Solving algorithm challenges every day and building projects with **FastAPI** & **Django** to level up my backend skills 🧩
 
 ### 📖 Currently reading
-- *Mistrz Czystego Kodu* — Robert C. Martin
 - *Czysty Kod* — Robert C. Martin
 - *Implementowanie Czystej Architektury w Pythonie*
-- *Era Agile* — Stephen Denning
 
 
 ### ⚡ Fun fact
