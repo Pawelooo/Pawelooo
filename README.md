@@ -33,12 +33,21 @@ Solving algorithm challenges every day and building projects with **FastAPI** & 
 ### ⚡ Fun fact
 I used to be a beekeeper — debugging hives before I started debugging code 🐝
 
-
-### Leetcode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Paweloo?theme=dark&font=Karma)
+### 📊 My coding stats
 
 
+<table>
+  <tr>
+    <td>
+      <h3><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></h3>
+      <img src="https://leetcard.jacoblin.cool/Paweloo?theme=dark&font=Karma" alt="LeetCode Stats"/>
+    </td>
+    <td>
+      <h3><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars"/></h3>
+      <img src="https://github.r2v.ch/codewars?user=Paweloo&top_languages=true&theme=dark&hide_clan=true" alt="Codewars Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
