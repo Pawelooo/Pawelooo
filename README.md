@@ -31,7 +31,7 @@ Solving algorithm challenges every day and building projects with **FastAPI** & 
 - *Era Agile* — Stephen Denning
 
 ### 💬 Ask me about
-**Beekeeping** 🐝 — I know a thing or two!
+**Beekeeping** 🐝 — I used to be a beekeeper — debugging hives before I started debugging code 🐝
 
 ### ⚡ Fun fact
 My first encounter with Python was during a high school training in 2017 — and I've been hooked ever since
