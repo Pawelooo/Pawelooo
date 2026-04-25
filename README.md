@@ -24,17 +24,22 @@ Building a **REST API** with **FastAPI** + **PostgreSQL** — focusing on clean 
 Solving algorithm challenges every day and building projects with **FastAPI** & **Django** to level up my backend skills 🧩
 
 ### 📖 Currently reading
-- *Era Agile* — Stephen Denning
 - *Mistrz Czystego Kodu* — Robert C. Martin
 - *Czysty Kod* — Robert C. Martin
 - *Implementowanie Czystej Architektury w Pythonie*
 - *Era Agile* — Stephen Denning
 
 ### 💬 Ask me about
-**Beekeeping** 🐝 — I used to be a beekeeper — debugging hives before I started debugging code 🐝
+**Beekeeping** 🐝 — I know a thing or two!
 
 ### ⚡ Fun fact
-My first encounter with Python was during a high school training in 2017 — and I've been hooked ever since
+I used to be a beekeeper — debugging hives before I started debugging code 🐝
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Paweloo?theme=dark&font=Karma)
+
+
 
 ---
 
