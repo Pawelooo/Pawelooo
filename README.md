@@ -14,6 +14,10 @@ Building my own project with **FastAPI**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🎯 Daily grind
 Solving algorithm challenges every day to sharpen my problem-solving skills 🧩
@@ -21,6 +25,9 @@ Solving algorithm challenges every day to sharpen my problem-solving skills 🧩
 ### 📖 Currently reading
 - *Era Agile* — Stephen Denning
 - *Mistrz Czystego Kodu* — Robert C. Martin
+- *Czysty Kod* — Robert C. Martin
+- *Implementowanie Czystej Architektury w Pythonie*
+- *Era Agile* — Stephen Denning
 
 ### 💬 Ask me about
 **Beekeeping** 🐝 — I know a thing or two!
