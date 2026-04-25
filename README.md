@@ -29,8 +29,6 @@ Solving algorithm challenges every day and building projects with **FastAPI** & 
 - *Implementowanie Czystej Architektury w Pythonie*
 - *Era Agile* — Stephen Denning
 
-### 💬 Ask me about
-**Beekeeping** 🐝 — I know a thing or two!
 
 ### ⚡ Fun fact
 I used to be a beekeeper — debugging hives before I started debugging code 🐝
