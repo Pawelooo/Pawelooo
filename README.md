@@ -5,7 +5,8 @@ Python developer exploring the backend world — currently diving deep into **Fa
 ---
 
 ### 🔭 What I'm working on
-Building my own project with **FastAPI**
+Building a **REST API** with **FastAPI** + **PostgreSQL** — focusing on clean architecture, authentication, and Docker deployment
+
 
 ### 🛠️ Tech I'm learning
 
