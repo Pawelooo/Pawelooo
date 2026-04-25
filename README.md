@@ -36,13 +36,13 @@ I used to be a beekeeper â€” debugging hives before I started debugging code ğŸ
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <h3><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></h3>
       <img src="https://leetcard.jacoblin.cool/Paweloo?theme=dark&font=Karma" alt="LeetCode Stats"/>
     </td>
-    <td>
+    <td valign="top">
       <h3><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars"/></h3>
-      <img src="https://github.r2v.ch/codewars?user=Paweloo&top_languages=true&theme=dark&hide_clan=true" alt="Codewars Stats"/>
+      <img src="https://github.r2v.ch/codewars?user=Paweloo&theme=dark&hide_clan=true" alt="Codewars Stats"/>
     </td>
   </tr>
 </table>
