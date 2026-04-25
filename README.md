@@ -20,7 +20,7 @@ Building my own project with **FastAPI**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🎯 Daily grind
-Solving algorithm challenges every day to sharpen my problem-solving skills 🧩
+Solving algorithm challenges every day and building projects with **FastAPI** & **Django** to level up my backend skills 🧩
 
 ### 📖 Currently reading
 - *Era Agile* — Stephen Denning
