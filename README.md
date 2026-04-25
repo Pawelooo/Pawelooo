@@ -15,11 +15,10 @@ Building my own project with **FastAPI**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### 🎯 2026 Goal
-Learn **AWS** and get comfortable with cloud deployments
+### 🎯 Daily grind
+Solving algorithm challenges every day to sharpen my problem-solving skills 🧩
 
 ### 📖 Currently reading
-- *Nauka Dockera w Miesiąc* — Elton Stoneman
 - *Era Agile* — Stephen Denning
 - *Mistrz Czystego Kodu* — Robert C. Martin
 
