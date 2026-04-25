@@ -34,6 +34,7 @@ Solving algorithm challenges every day and building projects with **FastAPI** & 
 I used to be a beekeeper — debugging hives before I started debugging code 🐝
 
 
+### Leetcode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Paweloo?theme=dark&font=Karma)
 
