@@ -20,6 +20,8 @@ Python developer exploring the backend world — currently diving deep into Fast
 🔭 What I'm working on
 Building my own project with FastAPI
 🛠️ Tech I'm learning
+<img src="[Python.svg.png](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="drawing"
+
 [Show Image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [Show Image](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 [https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
